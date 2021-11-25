@@ -1,6 +1,6 @@
 ## Aluraflix-api
 
-Async API architecture test for *Alura BackEnd Challenge 2021*. Built with AIOHTTP and AIOSQLITE 
+Async API architecture conecpt for *Alura BackEnd Challenge 2021*. Built with AIOHTTP and AIOSQLITE 
 
 
 ## EndPoints
