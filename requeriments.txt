@@ -1,0 +1,4 @@
+aiohttp
+aiosqlite
+aiohttp_session
+pytest-aiohttp
